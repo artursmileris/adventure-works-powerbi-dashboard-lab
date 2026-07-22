@@ -25,4 +25,4 @@ This Power BI dashboard was created as part of a hands-on technical lab using th
 
 1. Clone or download this repository.
 2. Make sure you have **Power BI Desktop** installed.
-3. Open `AdventureWorks_Dashboard.pbix` to explore the interactive report.
+3. Open `AW_Dashboard_Demo.pbix` to explore the interactive report.
