@@ -3,7 +3,7 @@
 # Adventure Works – Power BI Sales & Analytics Dashboard
 
 ## Project Overview
-This Power BI dashboard was developed as part of a hands-on technical lab using the **Adventure Works** dataset. The goal of this dashboard is to provide actionable business insights into sales performance, profit margins, customer demographics, and product trends.
+This Power BI dashboard was created as part of a hands-on technical lab using the **Adventure Works** dataset. The goal of this dashboard is to provide actionable business insights into sales performance, profit margins, customer demographics, and product trends.
 
 ---
 
