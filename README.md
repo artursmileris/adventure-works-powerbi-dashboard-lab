@@ -1,3 +1,5 @@
+
+
 # Adventure Works – Power BI Sales & Analytics Dashboard
 
 ## Project Overview
@@ -15,7 +17,7 @@ This Power BI dashboard was developed as part of a hands-on technical lab using 
 
 ## Dashboard Demonstration
 
-![Adventure Works Dashboard](docs/dashboard_screenshot.png)
+[![Watch the Demo Video](docs/video_thumbnail.png)](https://youtu.be/-bUdVcM2z7E)
 
 ---
 
