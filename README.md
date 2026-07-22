@@ -7,9 +7,9 @@ This Power BI dashboard was developed as part of a hands-on technical lab using 
 
 ## Key Features & Technical Details
 
-* **Data Modeling:** Modeled relational data connecting sales, product categories, and customer region tables.
-* **DAX & Metrics:** Created explicit measures for total revenue, profit margins, and year-over-year performance.
-* **Interactive Design:** Applied custom branding using the CY24 core theme, customized tooltips, and interactive slicers.
+* **Data Modeling:** Modeled relational data by connecting sales, product categories, and customer region tables.
+* **DAX & Metrics:** Created explicit measures for total revenue, profit margins, sales per categories and year-to-year performance.
+* **Interactive Design:** Applied custom branding using the CY24 core theme and interactive slicers.
 
 ---
 
