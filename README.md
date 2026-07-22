@@ -17,9 +17,9 @@ This Power BI dashboard was created as part of a hands-on technical lab using th
 
 ## Dashboard Demonstration
 
-<a href="https://youtu.be/-bUdVcM2z7E" target="_blank" rel="noopener noreferrer">
-  <img src="docs/AW_Demo_Thumbnail.png" alt="Here's the Demo Video" />
-</a>
+<video src="docs/AW_Demo_Video.mp4" controls="controls" style="max-width: 100%;">
+  Your browser does not support the video tag.
+</video>
 
 ---
 
