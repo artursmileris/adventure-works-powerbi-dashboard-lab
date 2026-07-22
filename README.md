@@ -17,7 +17,7 @@ This Power BI dashboard was created as part of a hands-on technical lab using th
 
 ## Dashboard Demonstration
 
-[![Watch the Demo Video](docs/video_thumbnail.png)](https://youtu.be/-bUdVcM2z7E)
+[![Here's the Demo Video](docs/AW_Demo_Thumbnail.png)](https://youtu.be/-bUdVcM2z7E)
 
 ---
 
